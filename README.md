@@ -1,1 +1,1 @@
-Language detection app using** fastapi-heroku**
+Language detection app using **fastapi-heroku**
